@@ -2,8 +2,7 @@
 __pycache__/
 img/*.jpg
 img_out/*.jpg
-logs/*
-logs/!README.md
+logs/*.pth
 model_data/*
 model_data/!voc_classes.txt
 model_data/!simhei.ttf
