@@ -1,6 +1,5 @@
 .idea/
 __pycache__/
-img/*.jpg
 logs/*.pth
 model_data/*
 model_data/!voc_classes.txt
